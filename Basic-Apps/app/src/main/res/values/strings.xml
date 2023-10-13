@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="birthday_person_name">Abhishek</string>
+    <string name="birthday_from_name">Niladri</string>
+    <string name="title_activity_jetpack_compose_article_screen">
+        JetpackComposeArticleScreenActivity
+    </string>
+    <string name="title_activity_task_completed_demo">TaskCompletedDemoActivity</string>
+    <string name="title_activity_quadrant_demo">QuadrantDemoActivity</string>
+    <string name="title_activity_dice_roller">DiceRollerActivity</string>
+    <string name="title_activity_lemonade_maker">LemonadeMakerActivity</string>
+    <string name="title_activity_lemonade_maker_app">LemonadeMakerApp</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tips: %s</string>
+    <string name="pic1">I\'m good</string>
+    <string name="pic2">I\'m proud</string>
+    <string name="pic3">I\'m strong</string>
+    <string name="pic4">I\'m healthy</string>
+    <string name="pic5">I\'m beautiful</string>
+    <string name="topic1">Architecture</string>
+    <string name="topic2">Business</string>
+    <string name="topic3">Crafts</string>
+    <string name="topic4">Culinary</string>
+    <string name="topic5">Design</string>
+    <string name="topic6">Drawing</string>
+    <string name="topic7">Fashion</string>
+    <string name="topic8">Film</string>
+    <string name="topic9">Gaming</string>
+    <string name="topic10">Lifestyle</string>
+    <string name="topic11">Music</string>
+    <string name="topic12">Painting</string>
+    <string name="topic13">Photography</string>
+    <string name="topic14">Tech</string>
+    <string name="title_activity_affirmation_app">AffirmationAppActivity</string>
+    <string name="title_activity_courses_grid_app_main">CoursesGridAppMainActivity</string>
+</resources>
